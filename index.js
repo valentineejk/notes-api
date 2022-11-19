@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
 const fs = require('fs');
-require('./db/mongoose')
-const Note = require('./models/note')
+require('./src/db/mongoose')
+const Note = require('./src/models/note')
 app.use(express.json())
 
 //get notes
