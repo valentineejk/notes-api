@@ -65,6 +65,4 @@ app.delete('/notes/:id', async (req, res) => {
 
 })
 
-app.listen(3000, () => {
-    console.log("server is live");
-});
+app.listen(process.env.PORT || 5000)
