@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/310bfa1c-ce66-49ef-ba3a-1b146f3508ae/appservices/subscriptions/310bfa1c-ce66-49ef-ba3a-1b146f3508ae/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/notes-api1x",
+  "appService.deploySubpath": "."
+}
